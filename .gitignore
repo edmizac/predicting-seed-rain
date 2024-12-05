@@ -1,3 +1,16 @@
+# Temporary files
+**/runtime
+runtime/
+temp/
+**.tmp.**
+/locations_*
+
+# Drawio related
+.bkp
+
+# Specific folders
+/Model_analysis/Sensitivity-analysis/v1.2_2023MJuly/Param_bestguess/Morris/temp/**.png
+
 # History files
 .Rhistory
 .Rapp.history

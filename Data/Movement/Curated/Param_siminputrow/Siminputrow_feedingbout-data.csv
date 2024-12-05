@@ -1,0 +1,543 @@
+"id","date","id_day_all","month","behavior","species","id_tree","group","feedingbout_id","feedingbout_dur","richness","feedingbout_dur_timestep"
+"Santa Maria","2015-03-15","Mar_7","Mar","Frugivory",NA,"SMaf001","Santa Maria","fb_0",5,6,1
+"Santa Maria","2015-03-15","Mar_7","Mar","Frugivory",NA,"SMaf002","Santa Maria","fb_1",35,6,7
+"Santa Maria","2015-03-15","Mar_7","Mar","Frugivory","Myrcia splendens","AMf007","Santa Maria","fb_2",25,6,5
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"AMf100","Santa Maria","fb_3",15,6,3
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory","Myrcia splendens","AMf007","Santa Maria","fb_3",35,6,7
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf009","Santa Maria","fb_4",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_4",35,6,7
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf011","Santa Maria","fb_5",15,6,3
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory","Celtis fluminensis","AMf132","Santa Maria","fb_6",25,6,5
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf017","Santa Maria","fb_7",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf018","Santa Maria","fb_7",15,6,3
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf019","Santa Maria","fb_8",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory","Celtis fluminensis","AMf030","Santa Maria","fb_8",20,6,4
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf022","Santa Maria","fb_8",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf023","Santa Maria","fb_8",10,6,2
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf024","Santa Maria","fb_8",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf025","Santa Maria","fb_8",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory","Celtis fluminensis","AMf022","Santa Maria","fb_8",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory","Celtis fluminensis","AMf236","Santa Maria","fb_8",20,6,4
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory",NA,"SMaf030","Santa Maria","fb_9",5,6,1
+"Santa Maria","2015-03-18","Mar_10","Mar","Frugivory","Celtis fluminensis","Amf217","Santa Maria","fb_10",10,6,2
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory",NA,"AMf017","Santa Maria","fb_11",10,6,2
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory","Myrcia splendens","AMf007","Santa Maria","fb_11",20,6,4
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory",NA,"SMaf035","Santa Maria","fb_11",5,6,1
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_12",20,6,4
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_13",35,6,7
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_14",5,6,1
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_15",10,6,2
+"Santa Maria","2015-03-20","Mar_12","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_16",5,6,1
+"Santa Maria","2015-03-21","Mar_13","Mar","Frugivory","Myrcia splendens","AMf007","Santa Maria","fb_17",10,6,2
+"Santa Maria","2015-03-21","Mar_13","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_18",10,6,2
+"Santa Maria","2015-03-21","Mar_13","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_19",5,6,1
+"Santa Maria","2015-03-21","Mar_13","Mar","Frugivory",NA,"SMaf042","Santa Maria","fb_20",5,6,1
+"Santa Maria","2015-03-21","Mar_13","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_20",15,6,3
+"Santa Maria","2015-03-21","Mar_13","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_21",10,6,2
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Phoradendron quadrangulare","AMf018","Santa Maria","fb_22",10,6,2
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Phoradendron quadrangulare","AMf019","Santa Maria","fb_22",25,6,5
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Phoradendron quadrangulare","AMf020","Santa Maria","fb_22",20,6,4
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Phoradendron quadrangulare","AMf021","Santa Maria","fb_22",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Celtis fluminensis","AMf158","Santa Maria","fb_23",10,6,2
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Celtis fluminensis","SMaf052","Santa Maria","fb_23",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory",NA,"SMaf053","Santa Maria","fb_23",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory",NA,"SMaf054","Santa Maria","fb_23",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Eugenia aff. ramboi","SMaf055","Santa Maria","fb_23",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Eugenia aff. ramboi","AMf025","Santa Maria","fb_23",10,6,2
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Eugenia aff. ramboi","AMf028","Santa Maria","fb_23",15,6,3
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Eugenia aff. ramboi","AMf029","Santa Maria","fb_23",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Celtis fluminensis","AMf030","Santa Maria","fb_23",20,6,4
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Eugenia aff. ramboi","AMf031","Santa Maria","fb_23",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory",NA,"SMaf065","Santa Maria","fb_24",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory",NA,"SMaf010","Santa Maria","fb_24",25,6,5
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Celtis fluminensis","AMf032","Santa Maria","fb_24",10,6,2
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory",NA,"SMaf068","Santa Maria","fb_24",5,6,1
+"Santa Maria","2015-03-29","Mar_14","Mar","Frugivory","Celtis fluminensis","AMf033","Santa Maria","fb_24",10,6,2
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf037","Santa Maria","fb_25",20,6,4
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf038","Santa Maria","fb_25",15,6,3
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf039","Santa Maria","fb_25",10,6,2
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf040","Santa Maria","fb_25",10,6,2
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"SMaf077","Santa Maria","fb_25",10,6,2
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"SMaf078","Santa Maria","fb_25",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Celtis fluminensis","AMf043","Santa Maria","fb_25",10,6,2
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf044","Santa Maria","fb_25",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Celtis fluminensis","AMf030","Santa Maria","fb_26",25,6,5
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Eugenia aff. ramboi","AMf031","Santa Maria","fb_26",10,6,2
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"SMaf084","Santa Maria","fb_26",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Eugenia aff. ramboi","AMf051","Santa Maria","fb_26",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Eugenia aff. ramboi","AMf138","Santa Maria","fb_26",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Eugenia aff. ramboi","AMf199","Santa Maria","fb_26",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf052","Santa Maria","fb_26",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf053","Santa Maria","fb_26",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Eugenia aff. ramboi","AMf054","Santa Maria","fb_26",15,6,3
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Eugenia aff. ramboi","AMf057","Santa Maria","fb_27",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf058","Santa Maria","fb_27",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"AMf060","Santa Maria","fb_27",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Celtis fluminensis","AMf061","Santa Maria","fb_27",5,6,1
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Celtis fluminensis","AMf132","Santa Maria","fb_27",15,6,3
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory",NA,"SMaf099","Santa Maria","fb_27",10,6,2
+"Santa Maria","2015-03-31","Mar_16","Mar","Frugivory","Celtis fluminensis","AMf066","Santa Maria","fb_28",10,6,2
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory",NA,"AMf218","Santa Maria","fb_29",20,4,4
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory",NA,"SMaf102","Santa Maria","fb_30",25,4,5
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory",NA,"AMf186","Santa Maria","fb_30",45,4,9
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory",NA,"AMf109","Santa Maria","fb_31",15,4,3
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory","Eugenia aff. ramboi","AMf112","Santa Maria","fb_31",20,4,4
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory",NA,"AMf075","Santa Maria","fb_32",10,4,2
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory","Eugenia aff. ramboi","AMf074","Santa Maria","fb_32",10,4,2
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory","Eugenia aff. ramboi","AMf073","Santa Maria","fb_32",5,4,1
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory","Eugenia aff. ramboi","AMf119","Santa Maria","fb_32",5,4,1
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory","Eugenia aff. ramboi","AMf122","Santa Maria","fb_32",5,4,1
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory","Eugenia aff. ramboi","AMf028","Santa Maria","fb_32",30,4,6
+"Santa Maria","2015-04-09","Apr_20","Apr","Frugivory","Celtis fluminensis","AMf071","Santa Maria","fb_33",15,4,3
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory","Celtis fluminensis","AMf163","Santa Maria","fb_34",60,4,12
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory",NA,"SMAf122","Santa Maria","fb_34",15,4,3
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory","Celtis fluminensis","AMf188","Santa Maria","fb_34",10,4,2
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory",NA,"AMf167","Santa Maria","fb_35",10,4,2
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory",NA,"SMaf126","Santa Maria","fb_35",65,4,13
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory","Eugenia aff. ramboi","AMf171","Santa Maria","fb_35",5,4,1
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory","Celtis fluminensis","AMf173","Santa Maria","fb_36",5,4,1
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory","Celtis fluminensis","AMf174","Santa Maria","fb_36",20,4,4
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory",NA,"SMAf130","Santa Maria","fb_36",5,4,1
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory","Celtis fluminensis","AMf179","Santa Maria","fb_36",10,4,2
+"Santa Maria","2015-04-11","Apr_22","Apr","Frugivory","Celtis fluminensis","AMf238","Santa Maria","fb_37",5,4,1
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"SMaf133","Santa Maria","fb_38",10,4,2
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"AMf182","Santa Maria","fb_38",5,4,1
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"AMf185","Santa Maria","fb_38",35,4,7
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"SMaf102","Santa Maria","fb_38",15,4,3
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"AMf186","Santa Maria","fb_38",15,4,3
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"AMf186","Santa Maria","fb_39",50,4,10
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"AMf187","Santa Maria","fb_40",30,4,6
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory","Celtis fluminensis","AMf188","Santa Maria","fb_40",5,4,1
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory",NA,"AMf162","Santa Maria","fb_41",35,4,7
+"Santa Maria","2015-04-12","Apr_23","Apr","Frugivory","Celtis fluminensis","AMf189","Santa Maria","fb_42",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory",NA,"AMf218","Santa Maria","fb_43",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory",NA,"AMf219","Santa Maria","fb_43",30,4,6
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory",NA,"AMf220","Santa Maria","fb_43",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory",NA,"AMf221","Santa Maria","fb_44",20,4,4
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","AMf222","Santa Maria","fb_45",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","AMf223","Santa Maria","fb_45",15,4,3
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Eugenia aff. ramboi","AMf225","Santa Maria","fb_45",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Eugenia aff. ramboi","AMf225","Santa Maria","fb_46",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Eugenia aff. ramboi","AMf227","Santa Maria","fb_46",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","AMf228","Santa Maria","fb_46",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","AMf043","Santa Maria","fb_47",30,4,6
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","AMf230","Santa Maria","fb_48",15,4,3
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Eugenia aff. ramboi","AMf232","Santa Maria","fb_48",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Eugenia aff. ramboi","AMf233","Santa Maria","fb_48",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","AMf236","Santa Maria","fb_48",5,4,1
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","AMf179","Santa Maria","fb_49",10,4,2
+"Santa Maria","2015-04-15","Apr_25","Apr","Frugivory","Celtis fluminensis","Amf217","Santa Maria","fb_49",5,4,1
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Campomanesia xanthocarpa","23.0","Taquara","fb_50",15,12,3
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Campomanesia xanthocarpa","25.0","Taquara","fb_50",10,12,2
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Psidium longipetiolatum","26.0","Taquara","fb_51",20,12,4
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Campomanesia xanthocarpa","27.0","Taquara","fb_52",20,12,4
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Campomanesia xanthocarpa","28.0","Taquara","fb_53",20,12,4
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Psidium longipetiolatum","29.0","Taquara","fb_53",15,12,3
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Sorocea bonplandii","31.0","Taquara","fb_54",5,12,1
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Rhipsalis cereuscula","32.0","Taquara","fb_55",15,12,3
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Rhipsalis cereuscula","33.0","Taquara","fb_55",10,12,2
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Rhipsalis cereuscula","34.0","Taquara","fb_56",15,12,3
+"Taquara","2018-01-27","Jan_3","Jan","Frugivory","Campomanesia xanthocarpa","35.0","Taquara","fb_56",10,12,2
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Psidium longipetiolatum","36.0","Taquara","fb_57",15,12,3
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Rhipsalis teres","37.0","Taquara","fb_57",10,12,2
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Rhipsalis teres","38.0","Taquara","fb_58",10,12,2
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Psidium longipetiolatum","39.0","Taquara","fb_59",20,12,4
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Psidium longipetiolatum","40.0","Taquara","fb_60",15,12,3
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Allophylus edulis","41.0","Taquara","fb_61",10,12,2
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Campomanesia xanthocarpa","42.0","Taquara","fb_62",15,12,3
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Sorocea bonplandii","f02_f","Taquara","fb_62",5,12,1
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Sorocea bonplandii","f03_f","Taquara","fb_62",5,12,1
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Campomanesia xanthocarpa","43.0","Taquara","fb_62",20,12,4
+"Taquara","2018-01-28","Jan_4","Jan","Frugivory","Allophylus edulis","44.0","Taquara","fb_63",5,12,1
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Allophylus edulis","45.0","Taquara","fb_64",5,12,1
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Eugenia brasiliensis","46.0","Taquara","fb_64",20,12,4
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Eugenia brasiliensis","48.0","Taquara","fb_65",15,12,3
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Eugenia brasiliensis","49.0","Taquara","fb_65",15,12,3
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Ficus enormis","50.0","Taquara","fb_66",20,12,4
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Eugenia brasiliensis","51.0","Taquara","fb_67",20,12,4
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Allophylus edulis","52.0","Taquara","fb_68",10,12,2
+"Taquara","2018-01-29","Jan_5","Jan","Frugivory","Eugenia brasiliensis","53.0","Taquara","fb_69",15,12,3
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Eugenia brasiliensis","54.0","Taquara","fb_70",15,12,3
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Eugenia brasiliensis","55.0","Taquara","fb_70",10,12,2
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Eugenia brasiliensis","f04_f","Taquara","fb_70",10,12,2
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Eugenia punicifolia","56.0","Taquara","fb_71",20,12,4
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Myrceugenia ovata","58.0","Taquara","fb_71",5,12,1
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Myrceugenia ovata","59.0","Taquara","fb_72",15,12,3
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Eugenia brasiliensis","60.0","Taquara","fb_72",10,12,2
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Ficus enormis","61.0","Taquara","fb_73",15,12,3
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Syagrus romanzoffiana","62.0","Taquara","fb_73",10,12,2
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Eugenia brasiliensis","63.0","Taquara","fb_74",15,12,3
+"Taquara","2018-01-30","Jan_6","Jan","Frugivory","Ficus enormis","64.0","Taquara","fb_75",20,12,4
+"Taquara","2018-01-31","Jan_7","Jan","Frugivory","Campomanesia xanthocarpa","65.0","Taquara","fb_76",20,12,4
+"Taquara","2018-01-31","Jan_7","Jan","Frugivory","Campomanesia xanthocarpa","66.0","Taquara","fb_77",25,12,5
+"Taquara","2018-01-31","Jan_7","Jan","Frugivory","Eugenia brasiliensis","67.0","Taquara","fb_78",15,12,3
+"Taquara","2018-01-31","Jan_7","Jan","Frugivory","Ficus enormis","68.0","Taquara","fb_79",20,12,4
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Psidium longipetiolatum","89.0","Taquara","fb_80",15,12,3
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Psidium myrtoides","90.0","Taquara","fb_80",10,12,2
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Psidium myrtoides","91.0","Taquara","fb_81",15,12,3
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Psidium longipetiolatum","92.0","Taquara","fb_82",15,12,3
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Rhipsalis teres","93.0","Taquara","fb_82",10,12,2
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Rhipsalis teres","f05_f","Taquara","fb_82",10,12,2
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Syagrus romanzoffiana","94.0","Taquara","fb_83",10,12,2
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Rhipsalis teres","95.0","Taquara","fb_83",15,12,3
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Psidium longipetiolatum","96.0","Taquara","fb_84",15,12,3
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Psidium longipetiolatum","97.0","Taquara","fb_85",15,12,3
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Rhipsalis cereuscula","98.0","Taquara","fb_85",10,12,2
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Ficus enormis","99.0","Taquara","fb_86",15,12,3
+"Taquara","2018-02-03","Jan_10","Jan","Frugivory","Ficus enormis","100.0","Taquara","fb_86",10,12,2
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Syagrus romanzoffiana","10.0","Suzano","fb_87",20,8,4
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Syagrus romanzoffiana","12.0","Suzano","fb_88",15,8,3
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Syagrus romanzoffiana","13.0","Suzano","fb_89",15,8,3
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Syagrus romanzoffiana","f04_f","Suzano","fb_89",10,8,2
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Cordia sellowiana","14.0","Suzano","fb_90",15,8,3
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Myrciaria cuspidata","15.0","Suzano","fb_90",10,8,2
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Syagrus romanzoffiana","16.0","Suzano","fb_91",15,8,3
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Syagrus romanzoffiana","f05_f","Suzano","fb_91",10,8,2
+"Suzano","2018-09-09","Sep_2","Sep","Frugivory","Trichilia catigua","9.0","Suzano","fb_91",5,8,1
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Syagrus romanzoffiana","18.0","Suzano","fb_92",20,8,4
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Syagrus romanzoffiana","19.0","Suzano","fb_93",15,8,3
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Syagrus romanzoffiana","20.0","Suzano","fb_93",10,8,2
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Cordia sellowiana","21.0","Suzano","fb_94",15,8,3
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Philodendron spp.","22.0","Suzano","fb_94",10,8,2
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Pera glabrata","23.0","Suzano","fb_95",15,8,3
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Randia armata","24.0","Suzano","fb_95",10,8,2
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Syagrus romanzoffiana","25.0","Suzano","fb_95",10,8,2
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Syagrus romanzoffiana","27.0","Suzano","fb_96",15,8,3
+"Suzano","2018-09-10","Sep_3","Sep","Frugivory","Syagrus romanzoffiana","28.0","Suzano","fb_96",10,8,2
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Myrciaria cuspidata","29.0","Suzano","fb_97",15,8,3
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Myrsine umbellata","30.0","Suzano","fb_98",15,8,3
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Philodendron spp.","31.0","Suzano","fb_98",15,8,3
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Syagrus romanzoffiana","f08_f","Suzano","fb_99",5,8,1
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Syagrus romanzoffiana","32.0","Suzano","fb_99",15,8,3
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Syagrus romanzoffiana","33.0","Suzano","fb_100",10,8,2
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Syagrus romanzoffiana","34.0","Suzano","fb_100",10,8,2
+"Suzano","2018-09-11","Sep_4","Sep","Frugivory","Syagrus romanzoffiana","35.0","Suzano","fb_100",10,8,2
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Trichilia catigua","38.0","Suzano","fb_101",15,8,3
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Syagrus romanzoffiana","39.0","Suzano","fb_101",15,8,3
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Xylopia brasiliensis","40.0","Suzano","fb_102",15,8,3
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Trichilia catigua","41.0","Suzano","fb_102",10,8,2
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Syagrus romanzoffiana","42.0","Suzano","fb_103",10,8,2
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Pera glabrata","44.0","Suzano","fb_104",25,8,5
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Rhipsalis teres","44.0","Suzano","fb_104",25,8,5
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Syagrus romanzoffiana","46.0","Suzano","fb_105",10,8,2
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Xylopia brasiliensis","47.0","Suzano","fb_106",20,8,4
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Syagrus romanzoffiana","48.0","Suzano","fb_106",5,8,1
+"Suzano","2018-12-06","Dec_5","Dec","Frugivory","Xylopia brasiliensis","49.0","Suzano","fb_107",20,8,4
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Syagrus romanzoffiana","f10_f","Suzano","fb_108",10,8,2
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Trichilia catigua","50.0","Suzano","fb_109",10,8,2
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Xylopia brasiliensis","51.0","Suzano","fb_110",15,8,3
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Xylopia brasiliensis","f11_f","Suzano","fb_110",10,8,2
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Syagrus romanzoffiana","52.0","Suzano","fb_111",15,8,3
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Syagrus romanzoffiana","53.0","Suzano","fb_111",15,8,3
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Casearia sylvestris","54.0","Suzano","fb_112",15,8,3
+"Suzano","2018-12-07","Dec_6","Dec","Frugivory","Casearia sylvestris","55.0","Suzano","fb_112",15,8,3
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Syagrus romanzoffiana","56.0","Suzano","fb_113",10,8,2
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Syagrus romanzoffiana","57.0","Suzano","fb_113",10,8,2
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Syagrus romanzoffiana","f12_f","Suzano","fb_114",20,8,4
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Xylopia brasiliensis","58.0","Suzano","fb_115",10,8,2
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Plinia trunciflora","60.0","Suzano","fb_116",15,8,3
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Plinia trunciflora","61.0","Suzano","fb_116",10,8,2
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Syagrus romanzoffiana","62.0","Suzano","fb_117",5,8,1
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Syagrus romanzoffiana","63.0","Suzano","fb_117",10,8,2
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Syagrus romanzoffiana","64.0","Suzano","fb_117",15,8,3
+"Suzano","2018-12-08","Dec_7","Dec","Frugivory","Syagrus romanzoffiana","f13_f","Suzano","fb_117",10,8,2
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Plinia trunciflora","65.0","Suzano","fb_118",15,8,3
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Plinia trunciflora","66.0","Suzano","fb_118",10,8,2
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Trichilia catigua","67.0","Suzano","fb_119",15,8,3
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Syagrus romanzoffiana","f14_f","Suzano","fb_119",15,8,3
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Abuta selloana","68.0","Suzano","fb_120",15,8,3
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Rhipsalis teres","69.0","Suzano","fb_120",15,8,3
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Syagrus romanzoffiana","70.0","Suzano","fb_121",15,8,3
+"Suzano","2018-12-09","Dec_8","Dec","Frugivory","Syagrus romanzoffiana","71.0","Suzano","fb_121",10,8,2
+"Suzano","2018-12-10","Dec_9","Dec","Frugivory","Syagrus romanzoffiana","72.0","Suzano","fb_122",20,8,4
+"Suzano","2018-12-10","Dec_9","Dec","Frugivory","Syagrus romanzoffiana","73.0","Suzano","fb_123",15,8,3
+"Suzano","2018-12-10","Dec_9","Dec","Frugivory","Syagrus romanzoffiana","f15_f","Suzano","fb_123",10,8,2
+"Suzano","2018-12-10","Dec_9","Dec","Frugivory","Rhipsalis teres","74.0","Suzano","fb_124",10,8,2
+"Suzano","2018-12-10","Dec_9","Dec","Frugivory","Trichilia catigua","75.0","Suzano","fb_125",15,8,3
+"Suzano","2018-12-10","Dec_9","Dec","Frugivory","Plinia trunciflora","76.0","Suzano","fb_126",15,8,3
+"Suzano","2018-12-11","Dec_10","Dec","Frugivory","Plinia trunciflora","f17_f","Suzano","fb_127",15,8,3
+"Suzano","2018-12-11","Dec_10","Dec","Frugivory","Xylopia brasiliensis","77.0","Suzano","fb_128",15,8,3
+"Suzano","2018-12-11","Dec_10","Dec","Frugivory","Syagrus romanzoffiana","79.0","Suzano","fb_128",15,8,3
+"Suzano","2018-12-11","Dec_10","Dec","Frugivory","Plinia trunciflora","80.0","Suzano","fb_129",20,8,4
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG153","Guareí","fb_130",5,3,1
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG154","Guareí","fb_130",10,3,2
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG65","Guareí","fb_130",35,3,7
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG155","Guareí","fb_130",20,3,4
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG156","Guareí","fb_130",55,3,11
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG125","Guareí","fb_130",20,3,4
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG77","Guareí","fb_130",5,3,1
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG157","Guareí","fb_130",25,3,5
+"Guareí","2019-05-16","may001","May","Frugivory","Syagrus romanzoffiana","AG130","Guareí","fb_131",15,3,3
+"Guareí","2019-05-16","may001","May","Frugivory","Celtis iguanaea","AG76","Guareí","fb_132",10,3,2
+"Guareí","2019-05-16","may001","May","Frugivory","Syagrus romanzoffiana","AG129","Guareí","fb_133",25,3,5
+"Guareí","2019-05-17","may002","May","Frugivory","Syagrus romanzoffiana","AG158","Guareí","fb_134",15,3,3
+"Guareí","2019-05-17","may002","May","Frugivory","Syagrus romanzoffiana","AG159","Guareí","fb_135",15,3,3
+"Guareí","2019-05-17","may002","May","Frugivory","Syagrus romanzoffiana","AG136","Guareí","fb_136",10,3,2
+"Guareí","2019-05-17","may002","May","Frugivory","Syagrus romanzoffiana","AG149","Guareí","fb_137",30,3,6
+"Guareí","2019-05-17","may002","May","Frugivory","Syagrus romanzoffiana","AG160","Guareí","fb_137",10,3,2
+"Guareí","2019-05-17","may002","May","Frugivory","Syagrus romanzoffiana","AG161","Guareí","fb_138",10,3,2
+"Guareí","2019-05-17","may002","May","Frugivory","Celtis iguanaea","AG65","Guareí","fb_138",20,3,4
+"Guareí","2019-05-18","may003","May","Frugivory","Celtis iguanaea","AG162","Guareí","fb_139",5,3,1
+"Guareí","2019-05-18","may003","May","Frugivory","Celtis iguanaea","AG65","Guareí","fb_139",70,3,14
+"Guareí","2019-05-18","may003","May","Frugivory","Celtis iguanaea","AG77","Guareí","fb_139",15,3,3
+"Guareí","2019-05-18","may003","May","Frugivory","Celtis iguanaea","AG118","Guareí","fb_139",50,3,10
+"Guareí","2019-05-18","may003","May","Frugivory","Syagrus romanzoffiana","AG102","Guareí","fb_140",25,3,5
+"Guareí","2019-05-18","may003","May","Frugivory","Syagrus romanzoffiana","AG131","Guareí","fb_141",10,3,2
+"Guareí","2019-05-18","may003","May","Frugivory","Syagrus romanzoffiana","AG161","Guareí","fb_141",25,3,5
+"Guareí","2019-05-18","may003","May","Frugivory","Celtis iguanaea","AG163","Guareí","fb_141",5,3,1
+"Guareí","2019-05-18","may003","May","Frugivory","Celtis iguanaea","AG156","Guareí","fb_141",45,3,9
+"Guareí","2019-05-20","may004","May","Frugivory","Syagrus romanzoffiana","AG131","Guareí","fb_142",15,3,3
+"Guareí","2019-05-20","may004","May","Frugivory","Syagrus romanzoffiana","AG164","Guareí","fb_143",20,3,4
+"Guareí","2019-05-20","may004","May","Frugivory","Syagrus romanzoffiana","AG161","Guareí","fb_143",5,3,1
+"Guareí","2019-05-20","may004","May","Frugivory","Dyospiros inconstans","AG165","Guareí","fb_143",10,3,2
+"Guareí","2019-05-20","may004","May","Frugivory","Celtis iguanaea","AG163","Guareí","fb_143",5,3,1
+"Guareí","2019-05-20","may004","May","Frugivory","Celtis iguanaea","AG156","Guareí","fb_143",50,3,10
+"Guareí","2019-05-20","may004","May","Frugivory","Celtis iguanaea","AG77","Guareí","fb_143",20,3,4
+"Guareí","2019-05-20","may004","May","Frugivory","Celtis iguanaea","AG106","Guareí","fb_143",15,3,3
+"Guareí","2019-05-20","may004","May","Frugivory","Celtis iguanaea","AG166","Guareí","fb_143",20,3,4
+"Guareí","2019-05-20","may004","May","Frugivory","Celtis iguanaea","AG157","Guareí","fb_143",30,3,6
+"Guareí","2019-05-20","may004","May","Frugivory","Celtis iguanaea","AG167","Guareí","fb_144",25,3,5
+"Guareí","2019-05-20","may004","May","Frugivory","Syagrus romanzoffiana","AG168","Guareí","fb_145",15,3,3
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG169","Guareí","fb_146",10,5,2
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG170","Guareí","fb_147",15,5,3
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Pereskia aculeata","AG171","Guareí","fb_147",5,5,1
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG172","Guareí","fb_148",10,5,2
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG114","Guareí","fb_148",25,5,5
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG173","Guareí","fb_148",5,5,1
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG174","Guareí","fb_149",20,5,4
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG175","Guareí","fb_150",15,5,3
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG176","Guareí","fb_150",5,5,1
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Syagrus romanzoffiana","AG177","Guareí","fb_150",10,5,2
+"Guareí","2019-06-10","jun001","Jun","Frugivory","Celtis iguanaea","AG152","Guareí","fb_151",25,5,5
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Celtis iguanaea","AG23","Guareí","fb_152",5,5,1
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Celtis iguanaea","AG65","Guareí","fb_152",10,5,2
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Celtis iguanaea","AG77","Guareí","fb_152",15,5,3
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Celtis iguanaea","AG178","Guareí","fb_152",25,5,5
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Celtis iguanaea","AG106","Guareí","fb_152",10,5,2
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Celtis iguanaea","AG179","Guareí","fb_152",10,5,2
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Celtis iguanaea","AG157","Guareí","fb_152",75,5,15
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Cissus sulcicaulis","AG180","Guareí","fb_153",5,5,1
+"Guareí","2019-06-11","jun002","Jun","Frugivory","Pereskia aculeata","AG181","Guareí","fb_154",10,5,2
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Pereskia aculeata","AG182","Guareí","fb_155",15,5,3
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Syagrus romanzoffiana","AG183","Guareí","fb_156",20,5,4
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Syagrus romanzoffiana","AG184","Guareí","fb_157",10,5,2
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Syagrus romanzoffiana","AG185","Guareí","fb_157",5,5,1
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Celtis iguanaea","AG186","Guareí","fb_158",20,5,4
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Celtis iguanaea","AG77","Guareí","fb_158",20,5,4
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Celtis iguanaea","AG187","Guareí","fb_158",5,5,1
+"Guareí","2019-06-12","jun003","Jun","Frugivory","Celtis iguanaea","AG106","Guareí","fb_158",85,5,17
+"Guareí","2019-06-14","jun004","Jun","Frugivory",NA,"AG194","Guareí","fb_159",5,5,1
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Syagrus romanzoffiana","AG117","Guareí","fb_160",10,5,2
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Pereskia aculeata","AG171","Guareí","fb_160",5,5,1
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Syagrus romanzoffiana","AG112","Guareí","fb_161",5,5,1
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Syagrus romanzoffiana","AG195","Guareí","fb_161",30,5,6
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Syagrus romanzoffiana","AG177","Guareí","fb_162",10,5,2
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Pereskia aculeata","AG196","Guareí","fb_163",5,5,1
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Celtis iguanaea","AG96","Guareí","fb_164",15,5,3
+"Guareí","2019-06-14","jun004","Jun","Frugivory","Celtis iguanaea","AG152","Guareí","fb_164",15,5,3
+"Guareí","2019-06-15","jun005","Jun","Frugivory","Syagrus romanzoffiana","AG198","Guareí","fb_165",15,5,3
+"Guareí","2019-06-15","jun005","Jun","Frugivory","Syagrus romanzoffiana","AG200","Guareí","fb_166",5,5,1
+"Guareí","2019-06-15","jun005","Jun","Frugivory","Syagrus romanzoffiana","AG195","Guareí","fb_167",25,5,5
+"Guareí","2019-06-15","jun005","Jun","Frugivory","Syagrus romanzoffiana","AG114","Guareí","fb_168",30,5,6
+"Guareí","2019-06-15","jun005","Jun","Frugivory","Pereskia aculeata","AG201","Guareí","fb_169",45,5,9
+"Guareí","2019-06-15","jun005","Jun","Frugivory","Syagrus romanzoffiana","AG202","Guareí","fb_169",25,5,5
+"Guareí","2019-06-15","jun005","Jun","Frugivory","Syagrus romanzoffiana","AG117","Guareí","fb_170",20,5,4
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Celtis iguanaea","AG203","Guareí","fb_171",10,5,2
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Celtis iguanaea","AG156","Guareí","fb_171",25,5,5
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Celtis iguanaea","AG125","Guareí","fb_171",10,5,2
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Syagrus romanzoffiana","AG183","Guareí","fb_171",15,5,3
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Pereskia aculeata","AG205","Guareí","fb_172",5,5,1
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Pereskia aculeata","AG206","Guareí","fb_172",10,5,2
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Pereskia aculeata","AG208","Guareí","fb_173",15,5,3
+"Guareí","2019-06-17","jun006","Jun","Frugivory","Pereskia aculeata","AG182","Guareí","fb_173",20,5,4
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Rhipsalis cereuscula","AG34","Guareí","fb_174",15,5,3
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Syagrus romanzoffiana","AG209","Guareí","fb_174",20,5,4
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Syagrus romanzoffiana","AG210","Guareí","fb_174",10,5,2
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG128","Guareí","fb_174",10,5,2
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG211","Guareí","fb_174",5,5,1
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG212","Guareí","fb_174",20,5,4
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG213","Guareí","fb_175",20,5,4
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG214","Guareí","fb_175",15,5,3
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG215","Guareí","fb_175",15,5,3
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG216","Guareí","fb_175",10,5,2
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG182","Guareí","fb_176",20,5,4
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG217","Guareí","fb_176",10,5,2
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG218","Guareí","fb_177",10,5,2
+"Guareí","2019-07-11","jul001","Jul","Frugivory","Pereskia aculeata","AG219","Guareí","fb_177",10,5,2
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG220","Guareí","fb_178",15,5,3
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG221","Guareí","fb_178",20,5,4
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG223","Guareí","fb_179",25,5,5
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG224","Guareí","fb_179",10,5,2
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG225","Guareí","fb_179",20,5,4
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG226","Guareí","fb_180",10,5,2
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG227","Guareí","fb_180",30,5,6
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG230","Guareí","fb_181",5,5,1
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG231","Guareí","fb_181",5,5,1
+"Guareí","2019-07-12","jul002","Jul","Frugivory","Pereskia aculeata","AG232","Guareí","fb_182",15,5,3
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Syagrus romanzoffiana","AG233","Guareí","fb_183",15,5,3
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG234","Guareí","fb_183",10,5,2
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG214","Guareí","fb_183",20,5,4
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG235","Guareí","fb_183",20,5,4
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG237","Guareí","fb_184",15,5,3
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG238","Guareí","fb_184",15,5,3
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Celtis iguanaea","AG77","Guareí","fb_184",30,5,6
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Celtis iguanaea","AG106","Guareí","fb_184",25,5,5
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Celtis iguanaea","AG179","Guareí","fb_184",45,5,9
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG230","Guareí","fb_184",15,5,3
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG239","Guareí","fb_184",5,5,1
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG242","Guareí","fb_185",10,5,2
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG243","Guareí","fb_185",10,5,2
+"Guareí","2019-07-13","jul003","Jul","Frugivory","Pereskia aculeata","AG244","Guareí","fb_185",10,5,2
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Pereskia aculeata","AG259","Guareí","fb_186",45,5,9
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Syagrus romanzoffiana","AG261","Guareí","fb_187",10,5,2
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Syagrus romanzoffiana","AG262","Guareí","fb_187",15,5,3
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Pereskia aculeata","AG263","Guareí","fb_188",5,5,1
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Pereskia aculeata","AG264","Guareí","fb_188",5,5,1
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Pereskia aculeata","AG171","Guareí","fb_188",10,5,2
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Pereskia aculeata","AG265","Guareí","fb_189",20,5,4
+"Guareí","2019-07-16","jul004","Jul","Frugivory","Syagrus romanzoffiana","AG174","Guareí","fb_189",5,5,1
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Syagrus romanzoffiana","AG269","Guareí","fb_190",5,5,1
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG214","Guareí","fb_191",15,5,3
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG270","Guareí","fb_191",5,5,1
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG182","Guareí","fb_191",10,5,2
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG217","Guareí","fb_191",10,5,2
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG271","Guareí","fb_192",5,5,1
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Syagrus romanzoffiana","AG272","Guareí","fb_192",20,5,4
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG273","Guareí","fb_193",10,5,2
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG274","Guareí","fb_194",5,5,1
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG276","Guareí","fb_195",30,5,6
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG243","Guareí","fb_196",15,5,3
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG244","Guareí","fb_196",10,5,2
+"Guareí","2019-07-17","jul005","Jul","Frugivory","Pereskia aculeata","AG277","Guareí","fb_196",5,5,1
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Pereskia aculeata","AG277","Guareí","fb_197",15,5,3
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG278","Guareí","fb_198",15,5,3
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG279","Guareí","fb_198",5,5,1
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG280","Guareí","fb_198",20,5,4
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG281","Guareí","fb_198",15,5,3
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG107","Guareí","fb_198",30,5,6
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG167","Guareí","fb_198",15,5,3
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG282","Guareí","fb_198",20,5,4
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG75","Guareí","fb_198",20,5,4
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG77","Guareí","fb_198",30,5,6
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG283","Guareí","fb_198",10,5,2
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG156","Guareí","fb_198",60,5,12
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Pereskia aculeata","AG238","Guareí","fb_198",25,5,5
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Pereskia aculeata","AG284","Guareí","fb_198",10,5,2
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Celtis iguanaea","AG125","Guareí","fb_198",5,5,1
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Pereskia aculeata","AG285","Guareí","fb_199",10,5,2
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Pereskia aculeata","AG286","Guareí","fb_199",5,5,1
+"Guareí","2019-07-18","jul006","Jul","Frugivory","Pereskia aculeata","AG287","Guareí","fb_199",5,5,1
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG288","Guareí","fb_200",15,5,3
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG289","Guareí","fb_200",5,5,1
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Syagrus romanzoffiana","AG100","Guareí","fb_200",15,5,3
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG290","Guareí","fb_200",10,5,2
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG291","Guareí","fb_200",15,5,3
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG292","Guareí","fb_201",40,5,8
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG293","Guareí","fb_201",10,5,2
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Syagrus romanzoffiana","AG294","Guareí","fb_201",10,5,2
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG295","Guareí","fb_201",10,5,2
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG297","Guareí","fb_202",15,5,3
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG298","Guareí","fb_202",25,5,5
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Pereskia aculeata","AG299","Guareí","fb_202",10,5,2
+"Guareí","2019-07-19","jul007","Jul","Frugivory","Syagrus romanzoffiana","AG300","Guareí","fb_202",15,5,3
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Syagrus romanzoffiana","AG261","Guareí","fb_203",20,5,4
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG302","Guareí","fb_203",30,5,6
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Syagrus romanzoffiana","AG303","Guareí","fb_204",40,5,8
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG216","Guareí","fb_205",10,5,2
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG182","Guareí","fb_205",40,5,8
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG217","Guareí","fb_205",5,5,1
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG304","Guareí","fb_206",5,5,1
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG221","Guareí","fb_206",15,5,3
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG305","Guareí","fb_207",15,5,3
+"Guareí","2019-07-20","jul008","Jul","Frugivory","Pereskia aculeata","AG223","Guareí","fb_207",10,5,2
+"Guareí","2019-07-20","jul008","Jul","Frugivory",NA,"AG228","Guareí","fb_208",10,5,2
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG306","Guareí","fb_209",5,4,1
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG307","Guareí","fb_209",10,4,2
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG308","Guareí","fb_209",10,4,2
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG309","Guareí","fb_209",10,4,2
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG214","Guareí","fb_209",25,4,5
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG43","Guareí","fb_210",10,4,2
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG229","Guareí","fb_211",15,4,3
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG228","Guareí","fb_212",35,4,7
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG311","Guareí","fb_213",15,4,3
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG225","Guareí","fb_213",10,4,2
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Syagrus romanzoffiana","AG129","Guareí","fb_214",5,4,1
+"Guareí","2019-08-11","aug001","Aug","Frugivory","Pereskia aculeata","AG312","Guareí","fb_215",5,4,1
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG314","Guareí","fb_216",10,4,2
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG315","Guareí","fb_216",5,4,1
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG316","Guareí","fb_216",10,4,2
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG317","Guareí","fb_216",15,4,3
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG318","Guareí","fb_217",5,4,1
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Syagrus romanzoffiana","AG79","Guareí","fb_217",5,4,1
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG289","Guareí","fb_218",20,4,4
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG171","Guareí","fb_218",20,4,4
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG290","Guareí","fb_218",10,4,2
+"Guareí","2019-08-12","aug002","Aug","Frugivory","Pereskia aculeata","AG319","Guareí","fb_219",5,4,1
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Pereskia aculeata","AG320","Guareí","fb_220",5,4,1
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Syagrus romanzoffiana","AG321","Guareí","fb_220",10,4,2
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Pereskia aculeata","AG323","Guareí","fb_221",10,4,2
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Pereskia aculeata","AG289","Guareí","fb_222",20,4,4
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Pereskia aculeata","AG291","Guareí","fb_223",20,4,4
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Pereskia aculeata","AG325","Guareí","fb_224",15,4,3
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Syagrus romanzoffiana","AG326","Guareí","fb_224",20,4,4
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Pereskia aculeata","AG292","Guareí","fb_224",15,4,3
+"Guareí","2019-08-13","aug003","Aug","Frugivory","Pereskia aculeata","AG327","Guareí","fb_225",10,4,2
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG263","Guareí","fb_226",10,4,2
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG249","Guareí","fb_227",10,4,2
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG307","Guareí","fb_227",10,4,2
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG328","Guareí","fb_228",20,4,4
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG329","Guareí","fb_228",5,4,1
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Syagrus romanzoffiana","AG330","Guareí","fb_228",5,4,1
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG333","Guareí","fb_229",5,4,1
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG334","Guareí","fb_229",10,4,2
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Celtis iguanaea","AG336","Guareí","fb_230",15,4,3
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Celtis iguanaea","AG152","Guareí","fb_230",15,4,3
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG337","Guareí","fb_230",5,4,1
+"Guareí","2019-08-14","aug004","Aug","Frugivory","Pereskia aculeata","AG307","Guareí","fb_231",5,4,1
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG338","Guareí","fb_232",25,4,5
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Syagrus romanzoffiana","AG339","Guareí","fb_232",5,4,1
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG214","Guareí","fb_232",30,4,6
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG215","Guareí","fb_232",5,4,1
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG90","Guareí","fb_232",25,4,5
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG340","Guareí","fb_232",20,4,4
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG182","Guareí","fb_232",20,4,4
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG341","Guareí","fb_233",20,4,4
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG342","Guareí","fb_233",5,4,1
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG228","Guareí","fb_233",40,4,8
+"Guareí","2019-08-15","aug005","Aug","Frugivory","Pereskia aculeata","AG343","Guareí","fb_234",5,4,1
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Pereskia aculeata","AG344","Guareí","fb_235",5,4,1
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Eugenia sp.","AG345","Guareí","fb_236",30,4,6
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Pereskia aculeata","AG346","Guareí","fb_237",15,4,3
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Pereskia aculeata","AG235","Guareí","fb_237",20,4,4
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Pereskia aculeata","AG347","Guareí","fb_237",10,4,2
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Pereskia aculeata","AG349","Guareí","fb_238",10,4,2
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Pereskia aculeata","AG350","Guareí","fb_238",5,4,1
+"Guareí","2019-08-19","aug006","Aug","Frugivory","Pereskia aculeata","AG229","Guareí","fb_238",20,4,4
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Celtis iguanaea","AG125","Guareí","fb_239",10,4,2
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Eugenia sp.","AG345","Guareí","fb_239",10,4,2
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Syagrus romanzoffiana","AG330","Guareí","fb_239",10,4,2
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG351","Guareí","fb_239",45,4,9
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG214","Guareí","fb_240",20,4,4
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG353","Guareí","fb_240",5,4,1
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG354","Guareí","fb_240",15,4,3
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG249","Guareí","fb_241",5,4,1
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG355","Guareí","fb_242",5,4,1
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG356","Guareí","fb_242",10,4,2
+"Guareí","2019-08-20","aug007","Aug","Frugivory","Pereskia aculeata","AG287","Guareí","fb_242",10,4,2
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG357","Guareí","fb_243",5,4,1
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Syagrus romanzoffiana","AG358","Guareí","fb_243",10,4,2
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG302","Guareí","fb_243",15,4,3
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG249","Guareí","fb_243",5,4,1
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG361","Guareí","fb_243",10,4,2
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG362","Guareí","fb_243",10,4,2
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG363","Guareí","fb_244",10,4,2
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Syagrus romanzoffiana","AG364","Guareí","fb_244",5,4,1
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG214","Guareí","fb_244",5,4,1
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG328","Guareí","fb_244",5,4,1
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG340","Guareí","fb_245",10,4,2
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG365","Guareí","fb_246",40,4,8
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG366","Guareí","fb_246",15,4,3
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG367","Guareí","fb_247",15,4,3
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG368","Guareí","fb_248",10,4,2
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG369","Guareí","fb_248",20,4,4
+"Guareí","2019-08-21","aug008","Aug","Frugivory","Pereskia aculeata","AG232","Guareí","fb_248",5,4,1

@@ -1,0 +1,10 @@
+"group","id_month","DPL_mean","KDE95","KDE50","Foraging_perc_behavior_mean","Frugivory_perc_behavior_mean","Resting_perc_behavior_mean","Travel_perc_behavior_mean","Foraging_perc_behavior_sd","Frugivory_perc_behavior_sd","Resting_perc_behavior_sd","Travel_perc_behavior_sd"
+"Guareí","Aug",1342.36,49.48,14.91,34.46,27.38,7.89,14.92,8.92,6.74,4.68,5.48
+"Guareí","Jul",1396.16,52,16.42,26.08,37.09,2.82,22.52,8.41,12.24,2.22,3.83
+"Guareí","Jun",1495.56,46.28,14.53,27.59,27.84,2.1,30.64,8.74,6.3,1.78,4.06
+"Guareí","May",1495.98,43.03,7.69,18.97,36.55,NA,33.38,3,11.82,NA,4.47
+"Santa Maria","Apr",1896.25,68.16,14.32,13.32,35.31,8.74,8.4,4.78,3.34,3.59,2.38
+"Santa Maria","Mar",1999.99,68.07,15.7,14.77,25.19,18.4,10.14,9.89,13.33,12.28,5.09
+"Suzano","Dec",864.35,11.9,3.47,7.11,17.1,32.27,27.28,1.22,3.67,5.29,6.65
+"Suzano","Sep",753.57,7.66,2.28,9.53,19.59,35.03,21.18,1.06,2.82,5.75,6.1
+"Taquara","Jan",3054.72,305.27,88.91,9.58,18.71,21.75,35.36,1.29,4.69,4.38,5.18

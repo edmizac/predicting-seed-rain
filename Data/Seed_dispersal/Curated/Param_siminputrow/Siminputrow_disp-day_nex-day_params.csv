@@ -1,0 +1,10 @@
+"group","id_month","timesteps","ndays","mean_timesteps","timesteps_wakeup_to_def_mean_next_day","timesteps_wakeup_to_def_sd_next_day","GTT_timesteps_mean_next_day","GTT_timesteps_sd_next_day","timesteps_wakeup_to_def_mean_same_day","timesteps_wakeup_to_def_sd_same_day","GTT_timesteps_mean_same_day","GTT_timesteps_sd_same_day"
+"Guareí","Aug",867,8,108,2.38888888888889,4.31330211826145,190,17,64.4406779661017,26.1113472403254,19,9
+"Guareí","Jul",853,8,107,2.9047619047619,1.97242900771515,196,6,67.2857142857143,19.953727985121,13,6
+"Guareí","Jun",657,6,110,4.26086956521739,6.27671103757974,202,18,51.6333333333333,26.0162704414683,18,10
+"Guareí","May",447,4,112,1.63636363636364,1.02691063610494,183,6,45.7446808510638,20.0461078138098,17,11
+"Santa Maria","Apr",451,4,113,NA,NA,NA,NA,NA,NA,NA,NA
+"Santa Maria","Mar",699,6,116,NA,NA,NA,NA,79.8,28.9689488935999,16,12
+"Suzano","Dec",726,6,121,5.75,6.13052471924984,189,13,70.4583333333333,27.5522888920033,21,9
+"Suzano","Sep",347,3,116,6.8,4.49444101084885,193,8,85.4615384615385,8.55000374868714,26,9
+"Taquara","Jan",855,6,142,1,0,156,6,61.4571428571429,28.4205216422952,16,7

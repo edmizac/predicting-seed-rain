@@ -1,0 +1,39 @@
+"group","id_month","disp_day","mean_SDD","sd_SDD"
+"Suzano","Feb","next day",164,14.26
+"Suzano","Feb","same day",171.28,93.29
+"Suzano","Apr","next day",139,52.74
+"Suzano","Apr","same day",168.71,34.05
+"Suzano","Sep","next day",60.4,21.71
+"Suzano","Sep","same day",111.95,57.2
+"Suzano","Dec","next day",126,57.57
+"Suzano","Dec","same day",105.71,53.59
+"Guareí","Apr","next day",151.2,153.25
+"Guareí","Apr","same day",87.84,71.16
+"Guareí","May","next day",62.16,26.09
+"Guareí","May","same day",69.16,59.18
+"Guareí","Jun","next day",117.69,110.87
+"Guareí","Jun","same day",117.08,101.56
+"Guareí","Jul","next day",197.84,9.33
+"Guareí","Jul","same day",27.86,8.53
+"Santa Maria","Mar","next day",646.68,63.53
+"Santa Maria","Mar","same day",321.63,256.08
+"Santa Maria","May","next day",426.9,289.85
+"Santa Maria","May","same day",197.75,121.26
+"Santa Maria","Jun","next day",292.85,234.32
+"Santa Maria","Jun","same day",232.9,156.97
+"Santa Maria","Aug","next day",116.36,0
+"Santa Maria","Aug","same day",113.89,83.33
+"Santa Maria","Sep","next day",244.19,273.36
+"Santa Maria","Sep","same day",288.59,169.8
+"Taquara","Jan","next day",267,49.5
+"Taquara","Jan","same day",263.65,121.79
+"Taquara","Mar","same day",167.7,73.6
+"Taquara","May","next day",103,0
+"Taquara","May","same day",231.93,138.37
+"Taquara","Jul","same day",310.19,65.04
+"Taquara","Sep","next day",207.5,9.19
+"Taquara","Sep","same day",267,68.03
+"Taquara","Nov","next day",1100,0
+"Taquara","Nov","same day",266.36,72.21
+"Taquara","Dec2017","same day",225.67,35.8
+"Taquara","Dec2018","same day",220.67,29.99

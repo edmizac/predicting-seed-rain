@@ -1,0 +1,14 @@
+"group","id_month","disp_day","GTT_timesteps_mean","GTT_timesteps_sd","timesteps_wakeup_to_def_mean","timesteps_wakeup_to_def_sd"
+"Suzano","Sep","next day",193,8,7,4
+"Suzano","Sep","same day",25,11,85,9
+"Suzano","Dec","next day",189,13,6,6
+"Suzano","Dec","same day",24,7,70,28
+"Guareí","May","next day",187,2,2,1
+"Guareí","May","same day",18,12,46,20
+"Guareí","Jun","next day",202,20,4,6
+"Guareí","Jun","same day",19,12,52,27
+"Guareí","Jul","next day",199,1,4,2
+"Guareí","Jul","same day",8,0,72,1
+"Santa Maria","Mar","same day",16,12,80,29
+"Taquara","Jan","next day",156,6,1,0
+"Taquara","Jan","same day",16,8,61,28
